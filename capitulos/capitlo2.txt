@@ -1,0 +1,4 @@
+El flujo de trabajo basico con git
+1.hacer cambios
+2.añadir los cambios
+3.hacer el commit
