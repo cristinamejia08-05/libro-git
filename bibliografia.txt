@@ -1,1 +1,2 @@
-- Chacon, S. and straub, B. Pro git. apress
+-chacon, S
+-Loegliger, J
